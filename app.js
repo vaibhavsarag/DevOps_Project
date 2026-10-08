@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Redeveloped the CICD pipeline');
+  res.send('Redeveloped the CICD pipeline for webhooks');
 
 });
 
