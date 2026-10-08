@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('everyting is running fine on 6th August');
+  res.send('Redeveloped the CICD pipeline');
 
 });
 
